@@ -1,2 +1,2 @@
 # NFTS-on-Web3
-发布你的nfts合约
+在eth网络上创建合约，发布NFT
