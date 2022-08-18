@@ -1,2 +1,2 @@
 # NFTS-on-Web3
-在eth网络上创建合约，发布NFT
+在erc网络上创建合约，成为NFT出版商
